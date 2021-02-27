@@ -14,7 +14,7 @@
 - You need the numpy package
 
 **Note:**
-- Dungeon is RANDOMY populated with monsters and treasures
+- Dungeon is RANDOMLY populated with monsters and treasures
 - There is a 75% chance of a monster and 25% chance of treasure in ANY room
 - The agility stat is visible but (sadly) not used in the game. Next time!
 - The most interesting (and I supposed difficult) thing in the game was to establish the game loop. Enjoy!
